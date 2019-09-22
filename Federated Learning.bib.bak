@@ -1,0 +1,1065 @@
+% Encoding: UTF-8
+
+@Article{ren2019federated,
+  author  = {Jianji Ren and Haichao Wang and Tingting Hou and Shuai Zheng and Chaosheng Tang},
+  title   = {Federated Learning-Based Computation Offloading Optimization in Edge Computing-Supported Internet of Things},
+  journal = {{IEEE} Access},
+  year    = {2019},
+  volume  = {7},
+  pages   = {69194--69201},
+}
+
+@Article{qian2019privacy,
+  author  = {Yongfeng Qian and Long Hu and Jing Chen and Xin Guan and Mohammad Mehedi Hassan and Abdulhameed Alelaiwi},
+  title   = {Privacy-aware service placement for mobile edge computing via federated learning},
+  journal = {Inf. Sci.},
+  year    = {2019},
+  volume  = {505},
+  pages   = {562--570},
+}
+
+@Article{wang2019adaptive,
+  author  = {Shiqiang Wang and Tiffany Tuor and Theodoros Salonidis and Kin K. Leung and Christian Makaya and Ting He and Kevin Chan},
+  title   = {Adaptive Federated Learning in Resource Constrained Edge Computing Systems},
+  journal = {{IEEE} Journal on Selected Areas in Communications},
+  year    = {2019},
+  volume  = {37},
+  number  = {6},
+  pages   = {1205--1221},
+}
+
+@Article{yang2019federateda,
+  author   = {Qiang Yang and Yang Liu and Tianjian Chen and Yongxin Tong},
+  title    = {Federated Machine Learning: Concept and Applications},
+  journal  = {{ACM} {TIST}},
+  year     = {2019},
+  volume   = {10},
+  number   = {2},
+  pages    = {12:1--12:19},
+  keywords = {rank5},
+}
+
+@InProceedings{han2019federated,
+  author    = {Yiwen Han and Ding Li and Haotian Qi and Jianji Ren and Xiaofei Wang},
+  title     = {Federated learning-based computation offloading optimization in edge computing-supported internet of things},
+  booktitle = {{ACM} {TUR-C}},
+  year      = {2019},
+  pages     = {25:1--25:5},
+  publisher = {{ACM}},
+}
+
+@InProceedings{xu2019exploring,
+  author    = {Zichen Xu and Li Li and Wenting Zou},
+  title     = {Exploring federated learning on battery-powered devices},
+  booktitle = {{ACM} {TUR-C}},
+  year      = {2019},
+  pages     = {6:1--6:6},
+  publisher = {{ACM}},
+}
+
+@InProceedings{nadiger2019federated,
+  author    = {Chetan Nadiger and Anil Kumar and Sherine Abdelhak},
+  title     = {Federated Reinforcement Learning for Fast Personalization},
+  booktitle = {{AIKE}},
+  year      = {2019},
+  pages     = {123--127},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{yang2019ffd,
+  author    = {Wensi Yang and Yuhang Zhang and Kejiang Ye and Li Li and Cheng{-}Zhong Xu},
+  title     = {{FFD:} {A} Federated Learning Based Method for Credit Card Fraud Detection},
+  booktitle = {BigData Congress},
+  year      = {2019},
+  volume    = {11514},
+  series    = {Lecture Notes in Computer Science},
+  pages     = {18--32},
+  publisher = {Springer},
+}
+
+@InProceedings{liu2019two,
+  author    = {Dianbo Liu and Dmitriy Dligach and Timothy A. Miller},
+  title     = {Two-stage Federated Phenotyping and Patient Representation Learning},
+  booktitle = {BioNLP@ACL},
+  year      = {2019},
+  pages     = {283--291},
+  publisher = {Association for Computational Linguistics},
+}
+
+@InProceedings{hegedues2019gossip,
+  author    = {Istv{\'{a}}n Heged{\"{u}}s and G{\'{a}}bor Danner and M{\'{a}}rk Jelasity},
+  title     = {Gossip Learning as a Decentralized Alternative to Federated Learning},
+  booktitle = {{DAIS}},
+  year      = {2019},
+  volume    = {11534},
+  series    = {Lecture Notes in Computer Science},
+  pages     = {74--90},
+  publisher = {Springer},
+}
+
+@InProceedings{li2019end,
+  author    = {Hongyu Li and Tianqi Han},
+  title     = {An End-to-End Encrypted Neural Network for Gradient Updates Transmission in Federated Learning},
+  booktitle = {{DCC}},
+  year      = {2019},
+  pages     = {589},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{leroy2019federated,
+  author    = {David Leroy and Alice Coucke and Thibaut Lavril and Thibault Gisselbrecht and Joseph Dureau},
+  title     = {Federated Learning for Keyword Spotting},
+  booktitle = {{ICASSP}},
+  year      = {2019},
+  pages     = {6341--6345},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{hao2019towards,
+  author    = {Meng Hao and Hongwei Li and Guowen Xu and Sen Liu and Haomiao Yang},
+  title     = {Towards Efficient and Privacy-Preserving Federated Deep Learning},
+  booktitle = {{ICC}},
+  year      = {2019},
+  pages     = {1--6},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{nishio2019client,
+  author    = {Takayuki Nishio and Ryo Yonetani},
+  title     = {Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge},
+  booktitle = {{ICC}},
+  year      = {2019},
+  pages     = {1--7},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{yang2019federated,
+  author    = {Kai Yang and Tao Jiang and Yuanming Shi and Zhi Ding},
+  title     = {Federated Learning Based on Over-the-Air Computation},
+  booktitle = {{ICC}},
+  year      = {2019},
+  pages     = {1--6},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{han2019visual,
+  author    = {Xu Han and Haoran Yu and Haisong Gu},
+  title     = {Visual Inspection with Federated Learning},
+  booktitle = {{ICIAR} {(2)}},
+  year      = {2019},
+  volume    = {11663},
+  series    = {Lecture Notes in Computer Science},
+  pages     = {52--64},
+  publisher = {Springer},
+}
+
+@InProceedings{chamatidis2019machine,
+  author    = {Ilias Chamatidis and Georgios Spathoulas},
+  title     = {Machine Learning for All: {A} More Robust Federated Learning Framework},
+  booktitle = {{ICISSP}},
+  year      = {2019},
+  pages     = {544--551},
+  publisher = {SciTePress},
+  keywords  = {rank5},
+}
+
+@InProceedings{bhagoji2019analyzing,
+  author    = {Arjun Nitin Bhagoji and Supriyo Chakraborty and Prateek Mittal and Seraphin B. Calo},
+  title     = {Analyzing Federated Learning through an Adversarial Lens},
+  booktitle = {{ICML}},
+  year      = {2019},
+  volume    = {97},
+  series    = {Proceedings of Machine Learning Research},
+  pages     = {634--643},
+  publisher = {{PMLR}},
+}
+
+@InProceedings{mohri2019agnostic,
+  author    = {Mehryar Mohri and Gary Sivek and Ananda Theertha Suresh},
+  title     = {Agnostic Federated Learning},
+  booktitle = {{ICML}},
+  year      = {2019},
+  volume    = {97},
+  series    = {Proceedings of Machine Learning Research},
+  pages     = {4615--4625},
+  publisher = {{PMLR}},
+}
+
+@InProceedings{yurochkin2019bayesian,
+  author    = {Mikhail Yurochkin and Mayank Agarwal and Soumya Ghosh and Kristjan H. Greenewald and Trong Nghia Hoang and Yasaman Khazaeni},
+  title     = {Bayesian Nonparametric Federated Learning of Neural Networks},
+  booktitle = {{ICML}},
+  year      = {2019},
+  volume    = {97},
+  series    = {Proceedings of Machine Learning Research},
+  pages     = {7252--7261},
+  publisher = {{PMLR}},
+}
+
+@InProceedings{wei2019multi,
+  author    = {Xiguang Wei and Quan Li and Yang Liu and Han Yu and Tianjian Chen and Qiang Yang},
+  title     = {Multi-Agent Visualization for Explaining Federated Learning},
+  booktitle = {{IJCAI}},
+  year      = {2019},
+  pages     = {6572--6574},
+  publisher = {ijcai.org},
+}
+
+@InProceedings{tran2019federated,
+  author    = {Nguyen H. Tran and Wei Bao and Albert Y. Zomaya and Nguyen N. H. Minh and Choong Seon Hong},
+  title     = {Federated Learning over Wireless Networks: Optimization Model Design and Analysis},
+  booktitle = {{INFOCOM}},
+  year      = {2019},
+  pages     = {1387--1395},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{wang2019inferring,
+  author    = {Zhibo Wang and Mengkai Song and Zhifei Zhang and Yang Song and Qian Wang and Hairong Qi},
+  title     = {Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning},
+  booktitle = {{INFOCOM}},
+  year      = {2019},
+  pages     = {2512--2520},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{santiagos.silva2019federated,
+  author    = {Santiago S. Silva R. and Boris A. Gutman and Eduardo Romero and Paul M. Thompson and Andr{\'{e}} Altmann and Marco Lorenzi},
+  title     = {Federated Learning in Distributed Medical Databases: Meta-Analysis of Large-Scale Subcortical Brain Data},
+  booktitle = {{ISBI}},
+  year      = {2019},
+  pages     = {270--274},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{hu2019model,
+  author    = {Yao Hu and Xiaoyan Sun and Yang Chen and Zishuai Lu},
+  title     = {Model and Feature Aggregation Based Federated Learning for Multi-sensor Time Series Trend Following},
+  booktitle = {{IWANN} {(1)}},
+  year      = {2019},
+  volume    = {11506},
+  series    = {Lecture Notes in Computer Science},
+  pages     = {233--246},
+  publisher = {Springer},
+}
+
+@InProceedings{dolui2019towards,
+  author    = {Koustabh Dolui and Illapha Cuba Gyllensten and Dietwig Lowet and Sam Michiels and Hans Hallez and Danny Hughes},
+  title     = {Towards Privacy-preserving Mobile Applications with Federated Learning: The Case of Matrix Factorization},
+  booktitle = {MobiSys},
+  year      = {2019},
+  pages     = {624--625},
+  publisher = {{ACM}},
+}
+
+@InProceedings{chai2019towards,
+  author    = {Zheng Chai and Hannan Fayyaz and Zeshan Fayyaz and Ali Anwar and Yi Zhou and Nathalie Baracaldo and Heiko Ludwig and Yue Cheng},
+  title     = {Towards Taming the Resource and Data Heterogeneity in Federated Learning},
+  booktitle = {OpML},
+  year      = {2019},
+  pages     = {19--21},
+  publisher = {{USENIX} Association},
+}
+
+@InProceedings{xu2019learning,
+  author    = {Liqi Xu and Richard L. Cole and Daniel Ting},
+  title     = {Learning to optimize federated queries},
+  booktitle = {aiDM@SIGMOD},
+  year      = {2019},
+  pages     = {2:1--2:7},
+  publisher = {{ACM}},
+}
+
+@InProceedings{conway-jones2019demonstration,
+  author    = {Dave Conway{-}Jones and Tiffany Tuor and Shiqiang Wang and Kin K. Leung},
+  title     = {Demonstration of Federated Learning in a Resource-Constrained Networked Environment},
+  booktitle = {{SMARTCOMP}},
+  year      = {2019},
+  pages     = {484--486},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{chen2019federated,
+  author    = {Yang Chen and Xiaoyan Sun and Yao Hu},
+  title     = {Federated Learning Assisted Interactive {EDA} with Dual Probabilistic Models for Personalized Search},
+  booktitle = {{ICSI} {(1)}},
+  year      = {2019},
+  volume    = {11655},
+  series    = {Lecture Notes in Computer Science},
+  pages     = {374--383},
+  publisher = {Springer},
+}
+
+@InProceedings{kharitonov2019federated,
+  author    = {Eugene Kharitonov},
+  title     = {Federated Online Learning to Rank with Evolution Strategies},
+  booktitle = {{WSDM}},
+  year      = {2019},
+  pages     = {249--257},
+  publisher = {{ACM}},
+}
+
+@Article{zhuo2019federated,
+  author   = {Hankz Hankui Zhuo and Wenfeng Feng and Qian Xu and Qiang Yang and Yufeng Lin},
+  title    = {Federated Reinforcement Learning},
+  journal  = {CoRR},
+  year     = {2019},
+  volume   = {abs/1901.08277},
+  keywords = {rank4},
+}
+
+@Article{cheng2019secureboost,
+  author   = {Kewei Cheng and Tao Fan and Yilun Jin and Yang Liu and Tianjian Chen and Qiang Yang},
+  title    = {SecureBoost: {A} Lossless Federated Learning Framework},
+  journal  = {CoRR},
+  year     = {2019},
+  volume   = {abs/1901.08755},
+  keywords = {rank4},
+}
+
+@Article{lalitha2019peer,
+  author  = {Anusha Lalitha and Osman Cihan Kilinc and Tara Javidi and Farinaz Koushanfar},
+  title   = {Peer-to-peer Federated Learning on Graphs},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1901.11173},
+}
+
+@Article{bonawitz2019towards,
+  author   = {Keith Bonawitz and Hubert Eichner and Wolfgang Grieskamp and Dzmitry Huba and Alex Ingerman and Vladimir Ivanov and Chlo{\'{e}} Kiddon and Jakub Konecn{\'{y}} and Stefano Mazzocchi and H. Brendan McMahan and Timon Van Overveldt and David Petrou and Daniel Ramage and Jason Roselander},
+  title    = {Towards Federated Learning at Scale: System Design},
+  journal  = {CoRR},
+  year     = {2019},
+  volume   = {abs/1902.01046},
+  keywords = {rank4},
+}
+
+@Article{guha2019one,
+  author  = {Neel Guha and Ameet Talwalkar and Virginia Smith},
+  title   = {One-Shot Federated Learning},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1902.11175},
+}
+
+@Article{sattler2019robust,
+  author  = {Felix Sattler and Simon Wiedemann and Klaus{-}Robert M{\"{u}}ller and Wojciech Samek},
+  title   = {Robust and Communication-Efficient Federated Learning from Non-IID Data},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1903.02891},
+}
+
+@Article{chen2019communication,
+  author  = {Yang Chen and Xiaoyan Sun and Yaochu Jin},
+  title   = {Communication-Efficient Federated Deep Learning with Asynchronous Model Update and Temporally Weighted Aggregation},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1903.07424},
+}
+
+@Article{huang2019patient,
+  author  = {Li Huang and Dianbo Liu},
+  title   = {Patient Clustering Improves Efficiency of Federated Machine Learning to predict mortality and hospital stay time using distributed Electronic Medical Records},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1903.09296},
+}
+
+@Article{chen2019federateda,
+  author  = {Mingqing Chen and Rajiv Mathews and Tom Ouyang and Fran{\c{c}}oise Beaufays},
+  title   = {Federated Learning Of Out-Of-Vocabulary Words},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1903.10635},
+}
+
+@Article{habachi2019fast,
+  author  = {Oussama Habachi and Mohamed{-}Ali Adjif and Jean{-}Pierre Cances},
+  title   = {Fast Uplink Grant for {NOMA:} a Federated Learning based Approach},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1904.07975},
+}
+
+@Article{mohammad2019adaptive,
+  author  = {Umair Mohammad and Sameh Sorour},
+  title   = {Adaptive Task Allocation for Asynchronous Federated Mobile Edge Learning},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1905.01656},
+}
+
+@Article{wang2019interpret,
+  author  = {Guan Wang},
+  title   = {Interpret Federated Learning with Shapley Values},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1905.04519},
+}
+
+@Article{liu2019edge,
+  author  = {Lumin Liu and Jun Zhang and S. H. Song and Khaled Ben Letaief},
+  title   = {Edge-Assisted Hierarchical Federated Learning with Non-IID Data},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1905.06641},
+}
+
+@Article{roy2019braintorrent,
+  author  = {Abhijit Guha Roy and Shayan Siddiqui and Sebastian P{\"{o}}lsterl and Nassir Navab and Christian Wachinger},
+  title   = {BrainTorrent: {A} Peer-to-Peer Environment for Decentralized Federated Learning},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1905.06731},
+}
+
+@Article{kang2019incentive,
+  author  = {Jiawen Kang and Zehui Xiong and Dusit Niyato and Han Yu and Ying{-}Chang Liang and Dong In Kim},
+  title   = {Incentive Design for Efficient Federated Learning in Mobile Networks: {A} Contract Theory Approach},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1905.07479},
+}
+
+@Article{ren2019accelerating,
+  author  = {Jinke Ren and Guanding Yu and Guangyao Ding},
+  title   = {Accelerating {DNN} Training in Wireless Federated Edge Learning System},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1905.09712},
+}
+
+@Article{li2019fair,
+  author  = {Tian Li and Maziar Sanjabi and Virginia Smith},
+  title   = {Fair Resource Allocation in Federated Learning},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1905.10497},
+}
+
+@Article{rajagopal2019federated,
+  author  = {Rajagopal A. and Nirmala V.},
+  title   = {Federated {AI} lets a team imagine together: Federated Learning of GANs},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1906.03595},
+}
+
+@Article{ramaswamy2019federated,
+  author  = {Swaroop Ramaswamy and Rajiv Mathews and Kanishka Rao and Fran{\c{c}}oise Beaufays},
+  title   = {Federated Learning for Emoji Prediction in a Mobile Keyboard},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1906.04329},
+}
+
+@Article{corinzia2019variational,
+  author  = {Luca Corinzia and Joachim M. Buhmann},
+  title   = {Variational Federated Multi-Task Learning},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1906.06268},
+}
+
+@Article{ghosh2019robust,
+  author  = {Avishek Ghosh and Justin Hong and Dong Yin and Kannan Ramchandran},
+  title   = {Robust Federated Learning in a Heterogeneous Environment},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1906.06629},
+}
+
+@Article{zhao2019mobile,
+  author  = {Yang Zhao and Jun Zhao and Linshan Jiang and Rui Tan and Dusit Niyato},
+  title   = {Mobile Edge Computing, Blockchain and Reputation-based Crowdsourcing IoT Federated Learning: {A} Secure, Decentralized and Privacy-preserving System},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1906.10893},
+}
+
+@Article{duan2019astraea,
+  author  = {Moming Duan},
+  title   = {Astraea: Self-balancing Federated Learning for Improving Classification Accuracy of Mobile Deep Learning Applications},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1907.01132},
+}
+
+@Article{ahn2019wireless,
+  author  = {Jin{-}Hyun Ahn and Osvaldo Simeone and Joonhyuk Kang},
+  title   = {Wireless Federated Distillation for Distributed Edge Learning with Heterogeneous Data},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1907.02745},
+}
+
+@Article{zeng2019energy,
+  author  = {Qunsong Zeng and Yuqing Du and Kin K. Leung and Kaibin Huang},
+  title   = {Energy-Efficient Radio Resource Allocation for Federated Edge Learning},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1907.06040},
+}
+
+@Article{chen2019fedhealth,
+  author  = {Yiqiang Chen and Jindong Wang and Chaohui Yu and Wen Gao and Xin Qin},
+  title   = {FedHealth: {A} Federated Transfer Learning Framework for Wearable Healthcare},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1907.09173},
+}
+
+@Article{li2019federated,
+  author   = {Qinbin Li and Zeyi Wen and Bingsheng He},
+  title    = {Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection},
+  journal  = {CoRR},
+  year     = {2019},
+  volume   = {abs/1907.09693},
+  keywords = {rank5},
+}
+
+@Article{amiri2019federated,
+  author  = {Mohammad Mohammadi Amiri and Deniz G{\"{u}}nd{\"{u}}z},
+  title   = {Federated Learning over Wireless Fading Channels},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1907.09769},
+}
+
+@Article{bakopoulou2019federated,
+  author  = {Evita Bakopoulou and Balint Tillman and Athina Markopoulou},
+  title   = {A Federated Learning Approach for Mobile Packet Classification},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1907.13113},
+}
+
+@Article{sarikaya2019motivating,
+  author  = {Yunus Sarikaya and {\"{O}}zg{\"{u}}r Er{\c{c}}etin},
+  title   = {Motivating Workers in Federated Learning: {A} Stackelberg Game Perspective},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1908.03092},
+}
+
+@Article{yao2019federated,
+  author  = {Xin Yao and Tianchi Huang and Chenglei Wu and Rui{-}Xiao Zhang and Lifeng Sun},
+  title   = {Federated Learning with Additional Mechanisms on Clients to Reduce Communication Costs},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1908.05891},
+}
+
+@Article{yang2019scheduling,
+  author  = {Howard H. Yang and Zuozhu Liu and Tony Q. S. Quek and H. Vincent Poor},
+  title   = {Scheduling Policies for Federated Learning in Wireless Networks},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1908.06287},
+}
+
+@Article{niknam2019federated,
+  author   = {Solmaz Niknam and Harpreet S. Dhillon and Jeffrey H. Reed},
+  title    = {Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges},
+  journal  = {CoRR},
+  year     = {2019},
+  volume   = {abs/1908.06847},
+  keywords = {rank5},
+}
+
+@Article{anelli2019towards,
+  author  = {Vito Walter Anelli and Yashar Deldjoo and Tommaso Di Noia and Antonio Ferrara},
+  title   = {Towards Effective Device-Aware Federated Learning},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1908.07420},
+}
+
+@Article{hu2019decentralized,
+  author  = {Chenghao Hu and Jingyan Jiang and Zhi Wang},
+  title   = {Decentralized Federated Learning: {A} Segmented Gossip Approach},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1908.07782},
+}
+
+@Article{li2019federateda,
+  author   = {Tian Li and Anit Kumar Sahu and Ameet Talwalkar and Virginia Smith},
+  title    = {Federated Learning: Challenges, Methods, and Future Directions},
+  journal  = {CoRR},
+  year     = {2019},
+  volume   = {abs/1908.07873},
+  keywords = {rank5},
+}
+
+@Article{li2019enda,
+  author  = {Hongyu Li and Tianqi Han},
+  title   = {An End-to-End Encrypted Neural Network for Gradient Updates Transmission in Federated Learning},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1908.08340},
+}
+
+@Article{liu2019federated,
+  author  = {Boyi Liu and Lujia Wang and Ming Liu and Cheng{-}Zhong Xu},
+  title   = {Federated Imitation Learning: {A} Privacy Considered Imitation Learning Framework for Cloud Robotic Systems with Heterogeneous Sensor Data},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1909.00895},
+}
+
+@Article{saputra2019energy,
+  author  = {Yuris Mulya Saputra and Dinh Thai Hoang and Diep N. Nguyen and Eryk Dutkiewicz and Markus Dominik Mueck and Srikathyayani Srikanteswara},
+  title   = {Energy Demand Prediction with Federated Learning for Electric Vehicle Networks},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1909.00907},
+}
+
+@Article{abad2019hierarchical,
+  author  = {Mehdi Salehi Heydar Abad and Emre Ozfatura and Deniz G{\"{u}}nd{\"{u}}z and {\"{O}}zg{\"{u}}r Er{\c{c}}etin},
+  title   = {Hierarchical Federated Learning Across Heterogeneous Cellular Networks},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1909.02362},
+}
+
+@Article{munoz-gonzalez2019byzantine,
+  author  = {Luis Mu{\~{n}}oz{-}Gonz{\'{a}}lez and Kenneth T. Co and Emil C. Lupu},
+  title   = {Byzantine-Robust Federated Machine Learning through Adaptive Model Averaging},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1909.05125},
+}
+
+@Article{gao2019hhhfl,
+  author  = {Dashan Gao and Ce Ju and Xiguang Wei and Yang Liu and Tianjian Chen and Qiang Yang},
+  title   = {{HHHFL:} Hierarchical Heterogeneous Horizontal Federated Learning for Electroencephalography},
+  journal = {CoRR},
+  year    = {2019},
+  volume  = {abs/1909.05784},
+}
+
+@Article{brisimi2018federated,
+  author  = {Theodora S. Brisimi and Ruidi Chen and Theofanie Mela and Alex Olshevsky and Ioannis Ch. Paschalidis and Wei Shi},
+  title   = {Federated learning of predictive models from federated Electronic Health Records},
+  journal = {I. J. Medical Informatics},
+  year    = {2018},
+  volume  = {112},
+  pages   = {59--67},
+}
+
+@InProceedings{thomas2018federated,
+  author    = {Manoj A. Thomas and Diya Suzanne Abraham and Dapeng Liu},
+  title     = {Federated Machine Learning for Translational Research},
+  booktitle = {{AMCIS}},
+  year      = {2018},
+  publisher = {Association for Information Systems},
+}
+
+@InProceedings{hu2018federated,
+  author    = {Binxuan Hu and Yujia Gao and Liang Liu and Huadong Ma},
+  title     = {Federated Region-Learning: An Edge Computing Based Framework for Urban Environment Sensing},
+  booktitle = {{GLOBECOM}},
+  year      = {2018},
+  pages     = {1--7},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{samarakoon2018federated,
+  author    = {Sumudu Samarakoon and Mehdi Bennis and Walid Saad and M{\'{e}}rouane Debbah},
+  title     = {Federated Learning for Ultra-Reliable Low-Latency {V2V} Communications},
+  booktitle = {{GLOBECOM}},
+  year      = {2018},
+  pages     = {1--7},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{yu2018federated,
+  author    = {Zhengxin Yu and Jia Hu and Geyong Min and Haochuan Lu and Zhiwei Zhao and Haozhe Wang and Nektarios Georgalas},
+  title     = {Federated Learning Based Proactive Content Caching in Edge Computing},
+  booktitle = {{GLOBECOM}},
+  year      = {2018},
+  pages     = {1--6},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{sozinov2018human,
+  author    = {Konstantin Sozinov and Vladimir Vlassov and Sarunas Girdzijauskas},
+  title     = {Human Activity Recognition Using Federated Learning},
+  booktitle = {ISPA/IUCC/BDCloud/SocialCom/SustainCom},
+  year      = {2018},
+  pages     = {1103--1111},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{nilsson2018performance,
+  author    = {Adrian Nilsson and Simon Smith and Gregor Ulm and Emil Gustavsson and Mats Jirstrand},
+  title     = {A Performance Evaluation of Federated Learning Algorithms},
+  booktitle = {DIDL@Middleware},
+  year      = {2018},
+  pages     = {1--8},
+  publisher = {{ACM}},
+}
+
+@InProceedings{sprague2018asynchronous,
+  author    = {Michael R. Sprague and Amir Jalalirad and Marco Scavuzzo and Catalin Capota and Moritz Neun and Lyman Do and Michael Kopp},
+  title     = {Asynchronous Federated Learning for Geospatial Applications},
+  booktitle = {DMLE/IOTSTREAMING@PKDD/ECML},
+  year      = {2018},
+  volume    = {967},
+  series    = {Communications in Computer and Information Science},
+  pages     = {21--28},
+  publisher = {Springer},
+}
+
+@InProceedings{zhou2018real,
+  author    = {Wei Zhou and Yiying Li and Shuhui Chen and Bo Ding},
+  title     = {Real-Time Data Processing Architecture for Multi-Robots Based on Differential Federated Learning},
+  booktitle = {SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI},
+  year      = {2018},
+  pages     = {462--471},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{yao2018two,
+  author    = {Xin Yao and Chaofeng Huang and Lifeng Sun},
+  title     = {Two-Stream Federated Learning: Reduce the Communication Costs},
+  booktitle = {{VCIP}},
+  year      = {2018},
+  pages     = {1--4},
+  publisher = {{IEEE}},
+}
+
+@InProceedings{ulm2018functional,
+  author    = {Gregor Ulm and Emil Gustavsson and Mats Jirstrand},
+  title     = {Functional Federated Learning in Erlang (ffl-erl)},
+  booktitle = {{WFLP}},
+  year      = {2018},
+  volume    = {11285},
+  series    = {Lecture Notes in Computer Science},
+  pages     = {162--178},
+  publisher = {Springer},
+}
+
+@Article{chen2018federated,
+  author  = {Fei Chen and Zhenhua Dong and Zhenguo Li and Xiuqiang He},
+  title   = {Federated Meta-Learning for Recommendation},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1802.07876},
+}
+
+@Article{nock2018entity,
+  author  = {Richard Nock and Stephen Hardy and Wilko Henecka and Hamish Ivey{-}Law and Giorgio Patrini and Guillaume Smith and Brian Thorne},
+  title   = {Entity Resolution and Federated Learning get a Federated Resolution},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1803.04035},
+}
+
+@Article{zhao2018federated,
+  author  = {Yue Zhao and Meng Li and Liangzhen Lai and Naveen Suda and Damon Civin and Vikas Chandra},
+  title   = {Federated Learning with Non-IID Data},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1806.00582},
+}
+
+@Article{bagdasaryan2018how,
+  author  = {Eugene Bagdasaryan and Andreas Veit and Yiqing Hua and Deborah Estrin and Vitaly Shmatikov},
+  title   = {How To Backdoor Federated Learning},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1807.00459},
+}
+
+@Article{samarakoon2018distributed,
+  author  = {Sumudu Samarakoon and Mehdi Bennis and Walid Saad and M{\'{e}}rouane Debbah},
+  title   = {Distributed Federated Learning for Ultra-Reliable Low-Latency Vehicular Communications},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1807.08127},
+}
+
+@Article{kim2018device,
+  author  = {Hyesung Kim and Jihong Park and Mehdi Bennis and Seong{-}Lyun Kim},
+  title   = {On-Device Federated Learning via Blockchain and its Latency Analysis},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1808.03949},
+}
+
+@Article{fung2018mitigating,
+  author  = {Clement Fung and Chris J. M. Yoon and Ivan Beschastnikh},
+  title   = {Mitigating Sybils in Federated Learning Poisoning},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1808.04866},
+}
+
+@Article{wang2018edge,
+  author  = {Xiaofei Wang and Yiwen Han and Chenyang Wang and Qiyang Zhao and Xu Chen and Min Chen},
+  title   = {In-Edge {AI:} Intelligentizing Mobile Edge Computing, Caching and Communication by Federated Learning},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1809.07857},
+}
+
+@Article{hard2018federated,
+  author  = {Andrew Hard and Kanishka Rao and Rajiv Mathews and Fran{\c{c}}oise Beaufays and Sean Augenstein and Hubert Eichner and Chlo{\'{e}} Kiddon and Daniel Ramage},
+  title   = {Federated Learning for Mobile Keyboard Prediction},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1811.03604},
+}
+
+@Article{bui2018partitioned,
+  author  = {Thang D. Bui and Cuong V. Nguyen and Siddharth Swaroop and Richard E. Turner},
+  title   = {Partitioned Variational Inference: {A} unified framework encompassing federated and continual learning},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1811.11206},
+}
+
+@Article{liu2018fadl,
+  author  = {Dianbo Liu and Timothy Miller and Raheel Sayeed and Kenneth D. Mandl},
+  title   = {{FADL:} Federated-Autonomous Deep Learning for Distributed Electronic Health Record},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1811.11400},
+}
+
+@Article{jeong2018communication,
+  author  = {Eunjeong Jeong and Seungeun Oh and Hyesung Kim and Jihong Park and Mehdi Bennis and Seong{-}Lyun Kim},
+  title   = {Communication-Efficient On-Device Machine Learning: Federated Distillation and Augmentation under Non-IID Private Data},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1811.11479},
+}
+
+@Article{feng2018joint,
+  author  = {Shaohan Feng and Dusit Niyato and Ping Wang and Dong In Kim and Ying{-}Chang Liang},
+  title   = {Joint Service Pricing and Cooperative Relay Communication for Federated Learning},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1811.12082},
+}
+
+@Article{huang2018loadaboost,
+  author  = {Li Huang and Yifeng Yin and Zeng Fu and Shifa Zhang and Hao Deng and Dianbo Liu},
+  title   = {LoAdaBoost: Loss-Based AdaBoost Federated Machine Learning on medical Data},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1811.12629},
+}
+
+@Article{nasr2018comprehensive,
+  author  = {Milad Nasr and Reza Shokri and Amir Houmansadr},
+  title   = {Comprehensive Privacy Analysis of Deep Learning: Stand-alone and Federated Learning under Passive and Active White-box Inference Attacks},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1812.00910},
+}
+
+@Article{bhowmick2018protection,
+  author  = {Abhishek Bhowmick and John C. Duchi and Julien Freudiger and Gaurav Kapoor and Ryan Rogers},
+  title   = {Protection Against Reconstruction and Its Applications in Private Federated Learning},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1812.00984},
+}
+
+@Article{chen2018federateda,
+  author  = {Mingzhe Chen and Omid Semiari and Walid Saad and Xuanlin Liu and Changchuan Yin},
+  title   = {Federated Echo State Learning for Minimizing Breaks in Presence in Wireless Virtual Reality Networks},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1812.01202},
+}
+
+@Article{yang2018applied,
+  author  = {Timothy Yang and Galen Andrew and Hubert Eichner and Haicheng Sun and Wei Li and Nicholas Kong and Daniel Ramage and Fran{\c{c}}oise Beaufays},
+  title   = {Applied Federated Learning: Improving Google Keyboard Query Suggestions},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1812.02903},
+}
+
+@Article{truex2018hybrid,
+  author  = {Stacey Truex and Nathalie Baracaldo and Ali Anwar and Thomas Steinke and Heiko Ludwig and Rui Zhang},
+  title   = {A Hybrid Approach to Privacy-Preserving Federated Learning},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1812.03224},
+}
+
+@Article{liu2018secure,
+  author  = {Yang Liu and Tianjian Chen and Qiang Yang},
+  title   = {Secure Federated Transfer Learning},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1812.03337},
+}
+
+@Article{caldas2018expanding,
+  author  = {Sebastian Caldas and Jakub Konecn{\'{y}} and H. Brendan McMahan and Ameet Talwalkar},
+  title   = {Expanding the Reach of Federated Learning by Reducing Client Resource Requirements},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1812.07210},
+}
+
+@Article{zhu2018multi,
+  author  = {Hangyu Zhu and Yaochu Jin},
+  title   = {Multi-objective Evolutionary Federated Learning},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1812.07478},
+}
+
+@Article{zhu2018low,
+  author  = {Guangxu Zhu and Yong Wang and Kaibin Huang},
+  title   = {Low-Latency Broadband Analog Aggregation for Federated Edge Learning},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1812.11494},
+}
+
+@Article{yang2018federated,
+  author  = {Kai Yang and Tao Jiang and Yuanming Shi and Zhi Ding},
+  title   = {Federated Learning via Over-the-Air Computation},
+  journal = {CoRR},
+  year    = {2018},
+  volume  = {abs/1812.11750},
+}
+
+@Article{koutsomitropoulos2017federated,
+  author  = {Dimitrios A. Koutsomitropoulos and Georgia D. Solomou and Katerina K. Kalou},
+  title   = {Federated semantic search using terminological thesauri for learning object discovery},
+  journal = {J. Enterprise Inf. Management},
+  year    = {2017},
+  volume  = {30},
+  number  = {5},
+  pages   = {795--808},
+}
+
+@InProceedings{malle2017more,
+  author    = {Bernd Malle and Nicola Giuliani and Peter Kieseberg and Andreas Holzinger},
+  title     = {The More the Merrier - Federated Learning from Local Sphere Recommendations},
+  booktitle = {{CD-MAKE}},
+  year      = {2017},
+  volume    = {10410},
+  series    = {Lecture Notes in Computer Science},
+  pages     = {367--373},
+  publisher = {Springer},
+}
+
+@InProceedings{smith2017federated,
+  author    = {Virginia Smith and Chao{-}Kai Chiang and Maziar Sanjabi and Ameet S. Talwalkar},
+  title     = {Federated Multi-Task Learning},
+  booktitle = {{NIPS}},
+  year      = {2017},
+  pages     = {4424--4434},
+}
+
+@Article{konecny2017stochastic,
+  author  = {Jakub Konecn{\'{y}}},
+  title   = {Stochastic, Distributed and Federated Optimization for Machine Learning},
+  journal = {CoRR},
+  year    = {2017},
+  volume  = {abs/1707.01155},
+}
+
+@Article{li2017robust,
+  author  = {Qunwei Li and Bhavya Kailkhura and Ryan Goldhahn and Priyadip Ray and Pramod K. Varshney},
+  title   = {Robust Federated Learning Using {ADMM} in the Presence of Data Falsifying Byzantines},
+  journal = {CoRR},
+  year    = {2017},
+  volume  = {abs/1710.05241},
+}
+
+@Article{hardy2017private,
+  author  = {Stephen Hardy and Wilko Henecka and Hamish Ivey{-}Law and Richard Nock and Giorgio Patrini and Guillaume Smith and Brian Thorne},
+  title   = {Private federated learning on vertically partitioned data via entity resolution and additively homomorphic encryption},
+  journal = {CoRR},
+  year    = {2017},
+  volume  = {abs/1711.10677},
+}
+
+@Article{geyer2017differentially,
+  author  = {Robin C. Geyer and Tassilo Klein and Moin Nabi},
+  title   = {Differentially Private Federated Learning: {A} Client Level Perspective},
+  journal = {CoRR},
+  year    = {2017},
+  volume  = {abs/1712.07557},
+}
+
+@Article{kumar2017federated,
+  author  = {Saurabh Kumar and Pararth Shah and Dilek Hakkani{-}T{\"{u}}r and Larry P. Heck},
+  title   = {Federated Control with Hierarchical Multi-Agent Deep Reinforcement Learning},
+  journal = {CoRR},
+  year    = {2017},
+  volume  = {abs/1712.08266},
+}
+
+@Article{bonawitz2016practical,
+  author  = {Keith Bonawitz and Vladimir Ivanov and Ben Kreuter and Antonio Marcedone and H. Brendan McMahan and Sarvar Patel and Daniel Ramage and Aaron Segal and Karn Seth},
+  title   = {Practical Secure Aggregation for Federated Learning on User-Held Data},
+  journal = {CoRR},
+  year    = {2016},
+  volume  = {abs/1611.04482},
+}
+
+@Article{konecny2016federated,
+  author  = {Jakub Konecn{\'{y}} and H. Brendan McMahan and Daniel Ramage and Peter Richt{\'{a}}rik},
+  title   = {Federated Optimization: Distributed Machine Learning for On-Device Intelligence},
+  journal = {CoRR},
+  year    = {2016},
+  volume  = {abs/1610.02527},
+}
+
+@Article{konecny2016federateda,
+  author  = {Jakub Konecn{\'{y}} and H. Brendan McMahan and Felix X. Yu and Peter Richt{\'{a}}rik and Ananda Theertha Suresh and Dave Bacon},
+  title   = {Federated Learning: Strategies for Improving Communication Efficiency},
+  journal = {CoRR},
+  year    = {2016},
+  volume  = {abs/1610.05492},
+}
+
+@Article{mcmahan2016federated,
+  author  = {H. Brendan McMahan and Eider Moore and Daniel Ramage and Blaise Ag{\"{u}}era y Arcas},
+  title   = {Federated Learning of Deep Networks using Model Averaging},
+  journal = {CoRR},
+  year    = {2016},
+  volume  = {abs/1602.05629},
+}
+
+@Article{han2019convergence,
+  author        = {Yiwen Han and Xiaofei Wang and Victor C. M. Leung and Dusit Niyato and Xueqiang Yan and Xu Chen},
+  title         = {Convergence of Edge Computing and Deep Learning: {A} Comprehensive Survey},
+  journal       = {CoRR},
+  year          = {2019},
+  volume        = {abs/1907.08349},
+  archiveprefix = {arXiv},
+  bibsource     = {dblp computer science bibliography, https://dblp.org},
+  biburl        = {https://dblp.org/rec/bib/journals/corr/abs-1907-08349},
+  eprint        = {1907.08349},
+  keywords      = {rank5},
+  timestamp     = {Tue, 23 Jul 2019 10:54:22 +0200},
+  url           = {http://arxiv.org/abs/1907.08349},
+}
+
+@Article{liu2019lifelong,
+  author    = {B. {Liu} and L. {Wang} and M. {Liu}},
+  title     = {Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems},
+  journal   = {IEEE Robotics and Automation Letters},
+  year      = {2019},
+  pages     = {1-1},
+  doi       = {10.1109/LRA.2019.2931179},
+  keywords  = {Navigation;Reinforcement learning;Task analysis;Cloud computing;Training;Robot kinematics;Deep Learning in Robotics and Automation;Autonomous Vehicle Navigation;AI-Based Methods},
+  timestamp = {2019-09-22},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
